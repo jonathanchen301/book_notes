@@ -1,4 +1,4 @@
-# book_notes
+# Book Notes
 Notes on all ML / AI books I read
 
 # Currently
